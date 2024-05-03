@@ -11,6 +11,6 @@ About Me
 - 💻 One line of code at a time.
 
 
-"I am always interested in learning the answers to how, why and what relating to Technologies around me."
+"I am always interested in learning the answers to how, why, and what questions relating to technologies around me."
 
 Feel free to explore my repositories and join me on this exciting coding journey. ✨
