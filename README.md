@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**DeepBhupatkar/DeepBhupatkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 I'm Deep Bhupatkar , a Computer Science Engineering student passionate about technology and innovation. Welcome to my GitHub profile!
 
 About Me
