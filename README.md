@@ -4,7 +4,7 @@ I'm Deep Bhupatkar,A Computer Science Engineering student passionate about techn
 
 About Me
 - 🎓 CSE Student with a focus on software development.
-- 💻 Proficient in programming languages like Java, Python.
+- 💻 Proficient in programming languages like Java, Python, Swift, Objective-C, C#.
 - 📱 Mobile App Developer specializing in Android, iOS, and Flutter.
 - 🤖 AI & ML Enthusiast with a deep understanding of machine learning algorithms.
 - 📰 Tech News Junkie who loves staying up-to-date with the latest industry trends.
