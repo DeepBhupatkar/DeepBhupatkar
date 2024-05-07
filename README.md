@@ -1,6 +1,6 @@
 ### Hiii there 👋
 
-I'm Deep Bhupatkar,A Computer Science Engineering student passionate about technology and innovation.Welcome to my GitHub profile!
+**I'm Deep Bhupatkar,A Computer Science Engineering student passionate about technology and innovation. Welcome to my GitHub profile!**
 
 About Me
 - 🎓 CSE Student with a focus on software development.
@@ -11,7 +11,7 @@ About Me
 - 💻 One line of code at a time.
 
 
-"I am always interested in learning the answers to how, why, and what questions relating to technologies around me."
+**"I am always interested in learning the answers to how, why, and what questions relating to technologies around me."**
 
 Feel free to explore my repositories and join me on this exciting coding journey. ✨
 
