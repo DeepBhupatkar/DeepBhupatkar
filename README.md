@@ -20,4 +20,6 @@ Feel free to explore my repositories and join me on this exciting coding journey
 ![DeepBhupatkar's Stats](https://github-readme-stats.vercel.app/api?username=DeepBhupatkar&theme=prussian&show_icons=true&hide_border=false&count_private=true)
 
 
-![DeepBhupatkar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DeepBhupatkar&theme=prussian&hide_border=false) ![DeepBhupatkar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepBhupatkar&theme=prussian&show_icons=true&hide_border=false&layout=compact)
+![DeepBhupatkar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DeepBhupatkar&theme=prussian&hide_border=false)
+
+![DeepBhupatkar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepBhupatkar&theme=prussian&show_icons=true&hide_border=false&layout=compact)
