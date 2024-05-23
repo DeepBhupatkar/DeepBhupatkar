@@ -21,4 +21,5 @@ Feel free to explore my repositories and join me on this exciting coding journey
 
 ![DeepBhupatkar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepBhupatkar&theme=prussian&show_icons=true&hide_border=false&layout=compact)
 
-[![My Skills](https://skillicons.dev/icons?i=apple,swift,java,kotlin,py,dart,cpp,css,dotnet,react,js,html,css,bootstrap,php,androidstudio,xcode,vscode,visualstudio,docker,flutter,firebase,mysql,mongodb,kafka,jquery,kali,linux,svelte,nginx,flask,sklearn,azure,gcp,aws,github,postman,jenkins,ubuntu)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=swift,java,kotlin,dart,python,c++,css,javascript,html,php,apple,androidstudio,flutter,mysql,mongodb,firebase,kali,linux,ubuntu,azure,gcp,awsvscode,visualstudio,.net,react,bootstrap,jquery,svelte,flask,docker,kafka,github,postman,jenkins,nginx,scikit-learn
+)](https://skillicons.dev)
