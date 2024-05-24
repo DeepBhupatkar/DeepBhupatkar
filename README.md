@@ -9,6 +9,7 @@ About Me
 - 🤖 AI & ML Enthusiast with a deep understanding of machine learning algorithms.
 - 📰 Tech News Junkie who loves staying up-to-date with the latest industry trends.
 - 💻 One line of code at a time.
+- 📫 How to Reach me: bhupatkardeep@gmail.com
 
 
 **"I am always interested in learning the answers to how, why, and what questions relating to technologies around me."**
