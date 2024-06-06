@@ -22,7 +22,7 @@ Feel free to explore my repositories and join me on this exciting coding journey
 
 ![DeepBhupatkar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepBhupatkar&theme=prussian&show_icons=true&hide_border=false&layout=compact)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DeepBhupatkar)](https://git.io/streak-stats)
+![DeepBhupatkar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DeepBhupatkar&theme=prussian&hide_border=false)
 
 
 # My Skills
