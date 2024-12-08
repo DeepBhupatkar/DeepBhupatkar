@@ -3,11 +3,10 @@
 **I'm Deep Bhupatkar,A Computer Science Engineering student passionate about technology and innovation. Welcome to my GitHub profile!**
 
 About Me
-- 🎓 CSE Student with a focus on software development.
-- 💻 Proficient in programming languages like Java, Kotlin, Dart, Python, Swift, Objective-C, C#.
-- 📱 Mobile App Developer specializing in Android, iOS, and Flutter.
-- 🤖 AI & ML Enthusiast with a deep understanding of machine learning algorithms.
-- 📰 Tech News Junkie who loves staying up-to-date with the latest industry trends.
+- 🎓 CSE Student passionate about software development, with a strong drive to learn and innovate.
+- 💻 Currently interning as an iOS Developer @VideoSDK.live, I am actively contributing to the development of real-time communication solutions and AI-powered Characters. - I work on SDK optimization and WebRTC integration to enhance user experience and performance.
+- 🔧 Collaborating with cross-functional teams, I focus on building high-performance SDKs, managing thread safety, and creating seamless real-time communication environments.
+- 📈 My passion for iOS Development,machine learning and cutting-edge technologies drives my commitment to continuous learning and delivering impactful software solutions in the AI and real-time communication space.
 - 💻 One line of code at a time.
 - 📫 How to Reach me: bhupatkardeep@gmail.com
 
